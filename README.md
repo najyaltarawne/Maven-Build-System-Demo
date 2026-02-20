@@ -1,4 +1,4 @@
-# Word Frequency Analyzer — Maven Build System Demo
+# Word Frequency Analyzer — Maven Build System Demo 
 
 <!-- ── CI BADGES ─────────────────────────────────────────────────────── -->
 <!-- These badges are auto-updated by the CI pipeline on every push.     -->
