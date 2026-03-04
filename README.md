@@ -1,4 +1,4 @@
-[![CI](https://github.com/najyaltarawne/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)](https://github.com/najyaltarawne/Maven-Build-System-Demo/actions/workflows/ci.yml)
+
 
 # Word Frequency Analyzer — Maven Build System Demo 
 
